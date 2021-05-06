@@ -4,6 +4,6 @@ psycopg2==2.8.4
 Python-Jose==3.0.1
 Graphene-SqlAlchemy==2.2.2
 Flask-Graphql==2.0.0
-flask-cors==3.0.8
+flask-cors==3.0.9
 graphene-sqlalchemy-filter==1.10.0
 graphql-core==2.2.1
